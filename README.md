@@ -1,6 +1,6 @@
-# Hi there,
+# 🚀About Me
 
-I'm a passionate developer with expertise in C, C++. I love working on challenging projects and contributing to the open-source community.
+I am a specialist in mathematics and programming. My deep understanding of advanced mathematical concepts enhances my proficiency in languages like C and C++, enabling me to tackle complex problems and design efficient algorithms. This blend of analytical insight and technical skill drives innovative solutions and improves problem-solving in every project.
 
 ## 🛠️ Skillset Overview
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
