@@ -1,6 +1,7 @@
 # 🚀About Me
 
-I am a specialist in mathematics and programming. My deep understanding of advanced mathematical concepts enhances my proficiency in languages like C and C++, enabling me to tackle complex problems and design efficient algorithms. This blend of analytical insight and technical skill drives innovative solutions and improves problem-solving in every project.
+### I am a specialist in mathematics and programming. My deep understanding of advanced mathematical concepts enhances my proficiency in languages like C and C++, enabling me to tackle complex problems and design efficient algorithms. This blend of analytical insight and technical skill drives innovative solutions and improves problem-solving in every project.
+
 
 ## 🛠️ Skillset Overview
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
