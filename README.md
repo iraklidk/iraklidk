@@ -16,9 +16,5 @@ I'm a passionate developer with expertise in C, C++. I love working on challengi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/-Advanced%20Mathematics-007ACC?style=flat&logo=math&logoColor=white)
 
-
-## 📊 GitHub Stats
-![Dolba's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iraklidk)
