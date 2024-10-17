@@ -12,7 +12,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Algorithms & Data Structures](https://img.shields.io/badge/-Algorithms%20%26%20Data%20Structures-008080?style=flat&logo=database&logoColor=white)
 ![Mathematics](https://img.shields.io/badge/-Advanced%20Mathematics-007ACC?style=flat&logo=math&logoColor=white)
+
 
 ## Profiles
 
