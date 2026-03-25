@@ -29,7 +29,7 @@ I'm a **Math & Computer Science student** at **Tbilisi State University** and a 
 
 ## 🧮 Math & Theoretical Topics
 
-Calculus · Linear Algebra · Differential Equations · Analytic Geometry · Theoretical Mechanics · Probability Theory · Combinatorics · Statistics
+Calculus · Linear Algebra · Analytic Geometry · Theoretical Mechanics · Probability Theory · Combinatorics · Statistics
 
 ---
 
