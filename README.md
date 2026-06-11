@@ -1,44 +1,70 @@
-# Hi there
+<div align="center">
 
-I'm a **Math & Computer Science student** at **Tbilisi State University** and a **Software Engineer** specializing in **.NET development**. I enjoy solving algorithms and competitive programming challenges.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Irakli%20Dolbaia&fontSize=42&animation=fadeIn&fontAlignY=55" />
 
----
+🎓 &nbsp;Mathematics & Computer Science student at **Tbilisi State University**
 
-## 🏆 Competitive Programming Profiles
+📐 &nbsp;**Mathematics Teacher** — sharing the beauty of math with students
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat-square)](https://codeforces.com/profile/trushina) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square)](https://leetcode.com/u/easy0peasy1/) &nbsp;
-[![CSES](https://img.shields.io/badge/CSES-Profile-black?style=flat-square)](https://cses.fi/user/255353)
+💻 &nbsp;Software Engineer - specializing in **.NET Technologies**
 
----
+🧩 &nbsp;In love with **Algorithms** & **Competitive Programming**
 
-## 💻 Programming Skills
+🌱 &nbsp;Currently learning **Neural Networks** & **Deep Learning**
 
-[![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) &nbsp;
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) &nbsp;
-[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) &nbsp;
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)](https://dotnet.microsoft.com/) &nbsp;
-[![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server) &nbsp;
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) &nbsp;
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) &nbsp;
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iraklidk-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iraklidk)
+[![Codeforces](https://img.shields.io/badge/Codeforces-idkk-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/idkk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-easy0peasy1-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/easy0peasy1/)
+[![CSES](https://img.shields.io/badge/CSES-255353-6c757d?style=flat-square)](https://cses.fi/user/255353)
 
-## 🧮 Math & Theoretical Topics
+</div>
 
-Calculus · Linear Algebra · Analytic Geometry · Theoretical Mechanics · Probability Theory · Combinatorics · Statistics
+<br>
 
----
+## 🧰 Arsenal
 
-## 🚀 Currently Learning
+<div align="center">
 
-Neural Networks · Deep Learning
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,py,js,html,css&theme=light&perline=8" /></a>
 
----
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pytorch,tensorflow&theme=light&perline=6" /></a>
 
-## 🌐 Connect with Me
+<a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=mssql,numpy&theme=light" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iraklidk)
+</div>
+
+<br>
+
+## 🧮 Mathematics
+
+<div align="center">
+
+![Calculus](https://img.shields.io/badge/∫-Calculus-8ec5fc?style=flat-square&labelColor=f6f8fa)
+![Linear Algebra](https://img.shields.io/badge/𝐀𝐱=λ𝐱-Linear%20Algebra-9fb8f9?style=flat-square&labelColor=f6f8fa)
+![Analytic Geometry](https://img.shields.io/badge/⊿-Analytic%20Geometry-b0aaf2?style=flat-square&labelColor=f6f8fa)
+![Probability Theory](https://img.shields.io/badge/P(A)-Probability%20Theory-c19ce9?style=flat-square&labelColor=f6f8fa)
+![Combinatorics](https://img.shields.io/badge/C(n,k)-Combinatorics-d28fdd?style=flat-square&labelColor=f6f8fa)
+![Statistics](https://img.shields.io/badge/σ²-Statistics-e283cb?style=flat-square&labelColor=f6f8fa)
+![Theoretical Mechanics](https://img.shields.io/badge/F=ma-Theoretical%20Mechanics-b8b8d1?style=flat-square&labelColor=f6f8fa)
+
+</div>
+
+<br>
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraklidk&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=57606a&title_color=57606a&langs_count=5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>*"First, solve the problem. Then, write the code."*</sub>
+
+</div>
