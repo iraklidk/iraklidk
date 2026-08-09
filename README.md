@@ -41,11 +41,11 @@ Undergraduate student in **Mathematics & Computer Science** at **Tbilisi State U
     <td width="25%"><b>Frameworks & ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F79A3E?style=flat-square&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
     </td>
   </tr>
+  <tr>
   <tr>
     <td width="25%"><b>Databases & Tools</b></td>
     <td>
