@@ -2,7 +2,7 @@
 
 # Irakli Dolbaia
 
-**Software Engineer | Applied Mathematician | CS Student**
+**Software Engineer | Applied Mathematician | CS&Math Student**
 
 Tbilisi, Georgia
 
@@ -53,42 +53,6 @@ Undergraduate student in **Mathematics & Computer Science** at **Tbilisi State U
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧮 Academic Background
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>📐 Analysis & Foundations</h4>
-      <ul>
-        <li>Calculus</li>
-        <li>Linear Algebra</li>
-        <li>Analytic Geometry</li>
-        <li>Theoretical Mechanics</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🎲 Discrete & Stochastics</h4>
-      <ul>
-        <li>Probability Theory</li>
-        <li>Mathematical Statistics</li>
-        <li>Combinatorics</li>
-        <li>Graph Theory</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>💻 Computer Science</h4>
-      <ul>
-        <li>Data Structures & Algorithms</li>
-        <li>Competitive Programming</li>
-        <li>Deep Learning Fundamentals</li>
-        <li>Neural Networks</li>
-      </ul>
     </td>
   </tr>
 </table>
